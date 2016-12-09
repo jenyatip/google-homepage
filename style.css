@@ -1,0 +1,16 @@
+.navbar {
+  background: none;
+  border: none;
+}
+img {
+  height: 92px;
+  width: 272px;
+}
+.img-responsive {
+   margin: 0 auto;
+}
+
+#searchbar {
+  background-color: white;
+  align: middle;
+}
